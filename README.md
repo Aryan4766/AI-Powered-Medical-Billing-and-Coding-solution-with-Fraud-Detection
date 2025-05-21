@@ -1,5 +1,7 @@
 # AI-Powered-Medical-Billing-and-Coding-solution-with-Fraud-Detection
 
+🚀 **Live App:** [Click here to launch the app] (https://ai-powered-medical-billing-and-coding-solution-with-fraud-dete.streamlit.app/)
+
 Project Title:
 --------------
 AI-Powered Medical Billing and Coding Solution using Machine Learning and NLP with Fraud Detection
